@@ -5,7 +5,7 @@ level: 1
 type: lab
 ---
 
-## Meal Choice
+## Hungry? Why Wait? Grab A...
 <img src="https://s3.amazonaws.com/after-school-assets/snacks.jpg" width="500">
 
 Fork and clone this lab, and do your work in the `meal_choice.rb` file. 

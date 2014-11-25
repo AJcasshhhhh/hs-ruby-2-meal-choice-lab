@@ -10,7 +10,7 @@ type: lab
 
 Fork and clone this lab, and do your work in the `meal_choice.rb` file. 
 
-Your job is to define breakfast, lunch and dinner methods that take in a `meal_choice argument` and declare the appropriate time to eat that meal. Include a `default meal_choice` for each method. Take a look at the example code to get started. 
+Your job is to define breakfast, lunch and dinner methods that take in a meal choice argument and declare the appropriate time to eat that meal. **Include a default meal_choice** for each method. Take a look at the example code to get started. 
 
 Call all of your methods (with and without arguments) at the bottom of the file. Then run your program.
 

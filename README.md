@@ -1,9 +1,4 @@
----
-tags: methods, default arguments, ruby, kids
-language: ruby
-level: 1
-type: lab
----
+
 
 ## Hungry? Why Wait? Grab A...
 <img src="https://s3.amazonaws.com/after-school-assets/snacks.jpg" width="500">

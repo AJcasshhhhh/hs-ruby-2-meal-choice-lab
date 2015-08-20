@@ -1,11 +1,9 @@
-
-
 ## Hungry? Why Wait? Grab A...
 <img src="https://s3.amazonaws.com/after-school-assets/snacks.jpg" width="500">
 
-Fork and clone this lab, and do your work in the `meal_choice.rb` file. 
+Fork and clone this lab. Code your solution in the `meal_choice.rb` file. 
 
-Your job is to define three methods, `breakfast`, `lunch` and `dinner` that take in a food and return a string stating the appropriate time to eat that food. For example, calling `breakfast("scrambled eggs")` should return something like `"Morning is the best time for scrambled eggs!"`
+Your job is to define three methods, `breakfast`, `lunch` and `dinner` that take in a food as a string and returns a string stating the appropriate time to eat that food. For example, calling `breakfast("scrambled eggs")` should return something like `"Morning is the best time for scrambled eggs!"`
 
 **Include a default meal_choice** for each method so that if no food is specified, it defaults to your favorite food. For example, calling `breakfast` with no argument should return `"Morning is the best time for Frosted Flakes!"` Take a look at the example code to get started. 
 

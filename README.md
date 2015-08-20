@@ -1,7 +1,7 @@
 ## Hungry? Why Wait? Grab A...
 <img src="https://s3.amazonaws.com/after-school-assets/snacks.jpg" width="500">
 
-Fork and clone this lab. Code your solution in the `meal_choice.rb` file. 
+Open this lab in Nitrous. Code your solution in the `meal_choice.rb` file. 
 
 Your job is to define three methods, `breakfast`, `lunch` and `dinner` that take in a food as a string and returns a string stating the appropriate time to eat that food. For example, calling `breakfast("scrambled eggs")` should return something like `"Morning is the best time for scrambled eggs!"`
 

@@ -43,7 +43,7 @@ describe "#dinner" do
     expect(dinner("broccoli").downcase).to include("broccoli")
   end
 
-    it 'Returns Frosted Flakes interpolated in the string when there is no argument' do
+    it 'Returns Salmon interpolated in the string when there is no argument' do
     expect(dinner).to include("salmon")
   end
 

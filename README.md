@@ -13,3 +13,5 @@ Call all of your methods (with and without arguments) at the bottom of the file.
 * [Skorks Blog](http://www.skorks.com/) - [Arguments With Default Value](http://www.skorks.com/2009/08/method-arguments-in-ruby/)
 ## Resources
 * [Learn to Program](http://books.flatironschool.com/books/43?page=72) - [9.1 Method Parameters](http://books.flatironschool.com/books/43?page=72), page 72
+
+<a href='https://learn.co/lessons/hs-ruby-2-meal-choice-lab' data-visibility='hidden'>View this lesson on Learn.co</a>

@@ -14,4 +14,4 @@ Call all of your methods (with and without arguments) at the bottom of the file.
 ## Resources
 * [Learn to Program](http://books.flatironschool.com/books/43?page=72) - [9.1 Method Parameters](http://books.flatironschool.com/books/43?page=72), page 72
 
-<a href='https://learn.co/lessons/hs-ruby-2-meal-choice-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby-2-meal-choice-lab' title='Hungry? Why Wait? Grab A...'>Hungry? Why Wait? Grab A...</a> on Learn.co and start learning to code for free.</p>
